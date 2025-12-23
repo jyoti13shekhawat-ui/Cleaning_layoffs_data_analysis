@@ -394,13 +394,13 @@ SELECT *
 FROM world_layoffs.layoffs_staging2;
 
 
--- EDA
+## Exploratory Data Analysis
 
--- Here we are jsut going to explore the data and find trends or patterns or anything interesting like outliers
+-- Here we are just going to explore the data and find trends, patterns, or anything interesting, like outliers
 
--- normally when you start the EDA process you have some idea of what you're looking for
+-- Normally, when you start the EDA process, you have some idea of what you're looking for
 
--- with this info we are just going to look around and see what we find!
+-- With this info, we are just going to look around and see what we find!
 
 ```sql
 SELECT * 
