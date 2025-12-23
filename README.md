@@ -1,6 +1,6 @@
 # Data Cleaning And Exploratory Data Analysis On World Layoffs Using SQL
 
-![](<img width="1052" height="844" alt="image" src="https://github.com/user-attachments/assets/8cfa579b-9b43-4f41-ba55-41838dbe51cb" />)
+![](https://github.com/jyoti13shekhawat-ui/Cleaning_layoffs_data_analysis/blob/main/Data%20Cleaning.png)
 
 
 ## Overview
